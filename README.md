@@ -17,8 +17,6 @@ Education
 2020-2022 (expected)
 :   Artevelde Hogeschool: `Graduaat Programmeren`
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
 
 2018-2020
 :   Telford College: `Level 1-2 in Computer Security`
